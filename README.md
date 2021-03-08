@@ -11,7 +11,7 @@ Here is a link to the deployed file https://emjayosee.github.io/Assignment16/.
 
 # 02 Approach:
 
-    In approching this project, I took subsequent learnings and made improvements to the portfolio and added the Project One and Two and a couple of the other Assignments I completed, along with a placeholder for Project 3, coming in April 2021.
+In approaching this project, I took subsequent learnings and made improvements to the portfolio and added the Project One and Two and a couple of the other Assignments I completed, along with a placeholder for Project 3, coming in April 2021.
 
 
 # 03 Testing and Quality Control:
@@ -38,7 +38,7 @@ The following items should be considered for future enhancements, time and budge
     2. Add actual contact details if I wish to deploy it publicly.
 
 
-# 05 Further improvements to make:
+# 05 Further Improvements to Make:
 
     1. Incorporate social media link buttons for twitter, facebook and youtube.  Media queries have been minimized in this version of the portfolio as instructed.
 

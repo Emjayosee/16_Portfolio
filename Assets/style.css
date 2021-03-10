@@ -1,7 +1,7 @@
 /* THis is the stylesheet to my Portfolio Website it is
 organized top down to match the HTML flow.  Mush of the CSS styling is self explanatory due to the semantic HTML. */
 
-/*last updated by Michael O'Connor, January 19, 2021*/
+/*last updated by Michael O'Connor, March 10, 2021*/
 
 
 /* I have incorporated the background image in the body to ensure coverage of the entire viewport and tried to blend it with the footer and the NavBar to give the site a seemless view. ONly when the user interact with certain pages do they realize the scroll feature.*/
@@ -111,4 +111,9 @@ margin-top: 10px;
 
  .reset {
     padding: 10 px;
+}
+
+.PDF {
+    font-size: 10px;
+    color: red;
 }

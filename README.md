@@ -3,6 +3,7 @@ This is the repo for Assignment 16 and updated Portfolio.
 
 Here is a link to the deployed file https://emjayosee.github.io/Assignment16/.
 
+Updated: March 17, 2021, Michael O'Connor, 604 765-6061
 
 # 01 Goal:
 

@@ -1,13 +1,13 @@
 # Assignment16
 This is the repo for Assignment 16 and updated Portfolio.
 
-Here is a link to the deployed file https://emjayosee.github.io/16_Portfolio/.
+Here is a link to the deployed file https://emjayosee.github.io/Assignment16/.
 
 Updated: March 17, 2021, Michael O'Connor, 604 765-6061
 
 # 01 Goal:
 
- The Goal of this project is to update the portfolio we created in Assignment 02,and updated in Assignment 08, improve it with things we now know and reference some of our projects and assignments. Here is a link to the Github folder https://github.com/Emjayosee/16_Portfolio and a link to the deployed shell https://emjayosee.github.io/16_Portfolio/.
+ The Goal of this project is to update the portfolio we created in Assignment 02,and updated in Assignment 08, improve it with things we now know and reference some of our projects and assignments. Here is a link to the Github folder https://github.com/Emjayosee/Assignment16 and a link to the deployed shell https://emjayosee.github.io/Assignment16/.
 
 
 # 02 Approach:
